@@ -22,7 +22,7 @@ Various applications built upon SST.
 
 - [sst-dbg](https://github.com/tactcomplabs/sst-dbg) - Debugging environment for SST by TCL.
 - [ahp_graph](https://github.com/lpsmodsimteam/ahp_graph) - An alternative graph construction for SST written in Python. Provides hierarchical construction of graphs.
-- [sst-containers](https://github.com/tactcomplabs/sst-containers) - examples of SST in Apptainer (previously Singularity) and Docker.
+- [sst-containers](https://github.com/tactcomplabs/sst-containers) - Examples of SST in Apptainer (previously Singularity) and Docker.
 
 
 ## Additional Indexes
